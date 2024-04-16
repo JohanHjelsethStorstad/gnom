@@ -13,6 +13,9 @@ export default function Nav() {
             <Link href="/application">
                 <div className="cursor-pointer text-white hover:text-blue-200">Søknadstekst</div>
             </Link>
+            <Link href="/accept">
+                <div className="cursor-pointer text-white hover:text-blue-200">Godta søknad</div>
+            </Link>
             <Link href="/cake/oreokake">
                 <div className="cursor-pointer text-white hover:text-blue-200">Oreokake</div>
             </Link>
